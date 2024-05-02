@@ -1,0 +1,11 @@
+google-generativeai
+google.colab
+cv2
+shutil
+numpy
+matplotlib
+google
+google-cloud-vision
+opencv-python
+streamlit
+npm install express
